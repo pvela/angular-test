@@ -25,7 +25,9 @@ A sample connector.json file contains the data for connector and fields. Use thi
 
 The html has 2 secions.
 
-the table in the left shows a list of connectors.
+The table in the left shows a list of connectors.
 
-Selecting one connector from this list will show the list of configurations for the selected connector and a select box with the list of fields. The user of this page will select a field and map it to a configuration for the selected connector. The goal is to make this form functional so when the save button is clicked the mappingfield attribute is populate in the connector.json file.
+The table in the right shows the configurations for the selected connector.
+
+Selecting one connector from the list in the left will show the list of configurations for the selected connector and a select box with the list of fields. The user of this page will select a field and map it to a configuration for the selected connector. The goal is to make this page functional so when the save button is clicked the mappingfield attribute is populated in the connector.json file.
 
