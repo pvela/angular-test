@@ -18,6 +18,8 @@ json-server connector.json --routes routes.json
 
 npm install
 
+sudo npm install -g json-server
+
 json-server
 
 ### Test 1
